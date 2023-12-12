@@ -1,3 +1,5 @@
+
+//this function can be used to make points along vector field.
 function points_along(x,y,num,scale,field,color){
 	
 	let array = []; 
